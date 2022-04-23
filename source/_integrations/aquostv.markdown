@@ -80,5 +80,5 @@ Also, with **power_on_enabled** as True, the Aquos logo on your TV will stay on 
 - LC-50US40 (no volume control, not fully tested)
 - LC-70LE650U
 - LC-70LE747E (no volume control)
-
+- 4T-C43DN2 (autodiscovered after adding to the network)
 If your model is not on the list, give it a test. If everything works correctly, then add it to the list on [GitHub](https://github.com/home-assistant/home-assistant.io/blob/current/source/_integrations/aquostv.markdown).
